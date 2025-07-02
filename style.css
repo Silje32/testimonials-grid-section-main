@@ -26,3 +26,39 @@ h2 {
 p {
   font-size: 13px;
 }
+
+/* CLASSES */
+.Daniel {
+  background-color: hsl(263, 55%, 52%);
+  color: white;
+}
+.Jonathan {
+  background-color: hsl(217, 19%, 35%);
+  color: white;
+}
+.Jeanette {
+  background-color: hsl(0, 0%, 100%);
+}
+.Patrick {
+  background-color: hsl(0, 0%, 7%);
+  color: white;
+}
+.Kira {
+  background-color: hsl(0, 0%, 100%);
+}
+
+/* IMAGES */
+.image-1,
+.image-2,
+.image-3,
+.image-4,
+.image-5 {
+  width: 5%;
+  border-radius: 50%;
+}
+.image-1 {
+  border-color: 2px solid hsl(264, 82%, 80%);
+}
+.image-4 {
+  border-color: 2px solid hsl(263, 55%, 52%);
+}
